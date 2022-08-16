@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com Monitoria de Qualidade
 - 🌱 Estou aprendendo Java e Python
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/wynaraxisto">
