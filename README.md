@@ -1,7 +1,7 @@
-### Olá!!! Eu sou a Wynara 👋
+### Olá! Eu sou a Wynara 👋
 
-- 🔭 Hoje eu trabalho com Monitoria de Qualidade
-- 🌱 Estou aprendendo Java e Python
+- 🔭 Hoje eu trabalho como Assistente de Qualidade ll
+- 🌱 Estou aprendendo Python pois tenho interesse em me tornar uma analista de dados.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
