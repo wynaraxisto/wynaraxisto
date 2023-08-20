@@ -14,7 +14,7 @@
    <img align="center" alt="Wynara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
+Você consegue entrar em contato comigo pelos meios abaixo:
  
 <div> 
   <a href="https://www.linkedin.com/in/wynaraxisto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
