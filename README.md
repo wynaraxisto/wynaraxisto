@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Wynara 👋
 
-- 🔭 Hoje eu trabalho como Assistente de Qualidade ll
-- 🌱 Estou aprendendo Python pois tenho interesse em me tornar uma analista de dados.
+- 🔭 Hoje eu trabalho como Analista de Qualidade l
+- 🌱 Estou aprendendo Python e SQL pois tenho interesse em me tornar uma analista de dados.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Wynara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Wynara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Wynara-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
 Você consegue entrar em contato comigo pelos meios abaixo:
